@@ -641,6 +641,48 @@ MonoBehaviour:
   description: HasGlasses
   satisfied: 1
   hash: -1554804606
+--- !u!1001 &949457046
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4694338357406688, guid: ab5f05eb414b65f4f9c285f785c1dfad, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4694338357406688, guid: ab5f05eb414b65f4f9c285f785c1dfad, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4694338357406688, guid: ab5f05eb414b65f4f9c285f785c1dfad, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4694338357406688, guid: ab5f05eb414b65f4f9c285f785c1dfad, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4694338357406688, guid: ab5f05eb414b65f4f9c285f785c1dfad, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4694338357406688, guid: ab5f05eb414b65f4f9c285f785c1dfad, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4694338357406688, guid: ab5f05eb414b65f4f9c285f785c1dfad, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4694338357406688, guid: ab5f05eb414b65f4f9c285f785c1dfad, type: 2}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: ab5f05eb414b65f4f9c285f785c1dfad, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &1038665701
 GameObject:
   m_ObjectHideFlags: 0
